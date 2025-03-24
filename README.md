@@ -1,10 +1,11 @@
-### Olá! eu sou o Felipe 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-jorge-simoes-628625356/)
 
-💻- Sempre gostei de programação e tecnologia.
 
-📚- Busco me desenvolver todos os dias, aprendendo novas linguagens.
+  -👨🏻‍💻 Iniciando a graduação em Engenharia da Computação 
+  -✉️ Email para contato é felipesimoes699@gmail.com
 
-🖊️- Atualmente estou cursando Engenharia da Computação na (UNAERP-RP)
+Foco em buscar conhecimento e aprimorar todos os dias minhas habilidades. 💻
+
 
 
 
